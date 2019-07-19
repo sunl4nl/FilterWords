@@ -1,0 +1,8 @@
+E:\TestCase\FilterTest\FilterTest\bin\Debug\BadWord.txt
+E:\TestCase\FilterTest\FilterTest\bin\Debug\Talk.txt
+E:\TestCase\FilterTest\FilterTest\bin\Debug\FilterTest.exe
+E:\TestCase\FilterTest\FilterTest\bin\Debug\FilterTest.pdb
+E:\TestCase\FilterTest\FilterTest\obj\x86\Debug\FilterTest.csprojAssemblyReference.cache
+E:\TestCase\FilterTest\FilterTest\obj\x86\Debug\FilterTest.csproj.CoreCompileInputs.cache
+E:\TestCase\FilterTest\FilterTest\obj\x86\Debug\FilterTest.exe
+E:\TestCase\FilterTest\FilterTest\obj\x86\Debug\FilterTest.pdb
